@@ -1,1 +1,1 @@
-sudo mv /path/to/com.example.blockwebsite.plist /Library/LaunchAgents/
+sudo mv plistAgent.plist /Library/LaunchAgents/

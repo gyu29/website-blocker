@@ -12,7 +12,7 @@ Installation
 To use this project, follow these steps:
 
 Clone the repository:
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/gyu29/website-blocker
 
 Navigate to the project directory:
 cd website-blocker-1.0

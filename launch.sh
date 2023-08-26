@@ -1,1 +1,1 @@
-sudo launchctl load /Library/LaunchAgents/com.example.blockwebsite.plist
+sudo launchctl load /Library/LaunchAgents/plistAgent.plist
